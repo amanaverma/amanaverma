@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img" aria-label="Where I work: contracts, tests, backend, frontend">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="250" fill="url(#bg)"/>
+  <rect width="1280" height="250" fill="url(#grid)"/>
+
+  <ellipse cx="640" cy="125" rx="540" ry="190" fill="url(#glow)"/>
+  <rect x="0" y="0" width="6" height="250" fill="url(#accent)"/>
+  <g transform="translate(76 62)">
+    <rect x="0" y="0" width="258" height="128" rx="16" fill="#0f1b2d" stroke="#38bdf8" stroke-opacity="0.35"/>
+    <rect x="20" y="24" width="26" height="2" rx="1" fill="url(#accent)"/>
+    <text x="20" y="56" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#f0f6fc">Contracts</text>
+    <text x="20" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748b">Solidity, upgradeable</text>
+    <text x="20" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748b">proxies, access control</text>
+  </g>
+    <path d="M337 126 H365" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.55" fill="none" stroke-linecap="round"/>
+    <circle cx="351" cy="126" r="3.5" fill="#38bdf8"/>
+  <g transform="translate(368 62)">
+    <rect x="0" y="0" width="258" height="128" rx="16" fill="#0f1b2d" stroke="#38bdf8" stroke-opacity="0.35"/>
+    <rect x="20" y="24" width="26" height="2" rx="1" fill="url(#accent)"/>
+    <text x="20" y="56" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#f0f6fc">Tests</text>
+    <text x="20" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748b">Foundry &amp; Hardhat,</text>
+    <text x="20" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748b">fork tests, coverage</text>
+  </g>
+    <path d="M629 126 H657" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.55" fill="none" stroke-linecap="round"/>
+    <circle cx="643" cy="126" r="3.5" fill="#38bdf8"/>
+  <g transform="translate(660 62)">
+    <rect x="0" y="0" width="258" height="128" rx="16" fill="#0f1b2d" stroke="#38bdf8" stroke-opacity="0.35"/>
+    <rect x="20" y="24" width="26" height="2" rx="1" fill="url(#accent)"/>
+    <text x="20" y="56" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#f0f6fc">Backend</text>
+    <text x="20" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748b">Node services,</text>
+    <text x="20" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748b">protocol data &amp; APIs</text>
+  </g>
+    <path d="M921 126 H949" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.55" fill="none" stroke-linecap="round"/>
+    <circle cx="935" cy="126" r="3.5" fill="#38bdf8"/>
+  <g transform="translate(952 62)">
+    <rect x="0" y="0" width="258" height="128" rx="16" fill="#0f1b2d" stroke="#38bdf8" stroke-opacity="0.35"/>
+    <rect x="20" y="24" width="26" height="2" rx="1" fill="url(#accent)"/>
+    <text x="20" y="56" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#f0f6fc">Frontend</text>
+    <text x="20" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748b">React clients</text>
+    <text x="20" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748b">wired to contracts</text>
+  </g>
+</svg>

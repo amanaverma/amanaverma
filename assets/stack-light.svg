@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-label="Stack: contracts, tooling, app, chains">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#f4f7fb"/>
+      <stop offset="100%" stop-color="#eef2f9"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="50%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#0f172a" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="260" fill="url(#bg)"/>
+  <rect width="1280" height="260" fill="url(#grid)"/>
+
+  <ellipse cx="640" cy="130" rx="520" ry="200" fill="url(#glow)"/>
+  <rect x="0" y="0" width="6" height="260" fill="url(#accent)"/>
+  <g transform="translate(64 58)">
+    <text x="0" y="0" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#475569" letter-spacing="1.5">CONTRACTS</text>
+    <rect x="0" y="12" width="34" height="2" rx="1" fill="url(#accent)"/>
+    <rect x="0" y="40" width="84" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="42" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">Solidity</text>
+    <rect x="0" y="82" width="116" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="58" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">OpenZeppelin</text>
+    <rect x="0" y="124" width="45" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="22" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">EVM</text>
+  </g>
+  <g transform="translate(352 58)">
+    <text x="0" y="0" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#475569" letter-spacing="1.5">TOOLING</text>
+    <rect x="0" y="12" width="34" height="2" rx="1" fill="url(#accent)"/>
+    <rect x="0" y="40" width="77" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="38" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">Foundry</text>
+    <rect x="0" y="82" width="77" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="38" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">Hardhat</text>
+    <rect x="0" y="124" width="92" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="46" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">ethers.js</text>
+  </g>
+  <g transform="translate(640 58)">
+    <text x="0" y="0" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#475569" letter-spacing="1.5">APP</text>
+    <rect x="0" y="12" width="34" height="2" rx="1" fill="url(#accent)"/>
+    <rect x="0" y="40" width="100" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="50" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">TypeScript</text>
+    <rect x="0" y="82" width="77" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="38" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">Node.js</text>
+    <rect x="0" y="124" width="61" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="30" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">React</text>
+  </g>
+  <g transform="translate(928 58)">
+    <text x="0" y="0" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#475569" letter-spacing="1.5">CHAINS</text>
+    <rect x="0" y="12" width="34" height="2" rx="1" fill="url(#accent)"/>
+    <rect x="0" y="40" width="84" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="42" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">Ethereum</text>
+    <rect x="0" y="82" width="92" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="46" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">BNB Chain</text>
+    <rect x="0" y="124" width="77" height="30" rx="15" fill="#ffffff" stroke="#0284c7" stroke-opacity="0.35"/>
+    <text x="38" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#0369a1" text-anchor="middle">Polygon</text>
+  </g>
+</svg>
