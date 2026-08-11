@@ -6,17 +6,12 @@
   </picture>
 </p>
 
-<!--
-  Contact badges. Replace YOUR_HANDLE / YOUR_EMAIL, then delete these two
-  comment lines to make the row visible. Drop any row you don't use.
-
 <p align="center">
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://t.me/YOUR_HANDLE"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:amanvermaav2404@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- Telegram: needs the @username from Telegram → Settings → Username
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  -->
 </p>
--->
 
 <p align="center">
   <b>Smart contract engineer.</b> Two years writing and reviewing Solidity that holds real money.
@@ -74,12 +69,6 @@
 
 Smart contract engineering and Web3 full-stack roles, permanent or contract.
 
-<!--
-  Footer contact line. Same idea: fill in, then uncomment.
-
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><b>Email</b></a> ·
-  <a href="https://x.com/YOUR_HANDLE"><b>X</b></a> ·
-  <a href="https://t.me/YOUR_HANDLE"><b>Telegram</b></a>
+  <a href="mailto:amanvermaav2404@gmail.com"><b>amanvermaav2404@gmail.com</b></a>
 </p>
--->
